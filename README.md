@@ -37,7 +37,7 @@ allprojects {
 // build.gradle(Module:)
 dependencies {
 
-   implementation 'com.github.ZLYang110:MultiStateView:1.0'
+   implementation 'com.github.ZLYang110:MultiStateViewLib:1.0'
 }
 ```
 
